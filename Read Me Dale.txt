@@ -1,3 +1,5 @@
+Github with all files: https://github.com/jackchurch/6CLPAssignment 
+
 Put the database folder in root of C: 
 C:\Database\TafeDB.mdb
 
