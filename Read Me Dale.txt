@@ -1,0 +1,6 @@
+Put the database folder in root of C: 
+C:\Database\TafeDB.mdb
+
+Due to issues with Azure credit, I've made a console app to host my service. 
+
+Access the ABCEdServicesTest project via the 'ABC ED Servies' solution file. 

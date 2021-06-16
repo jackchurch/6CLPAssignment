@@ -1,0 +1,50 @@
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.dll
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\EntityFramework.dll
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.pdb
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.dll.config
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\EntityFramework.xml
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csprojAssemblyReference.cache
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csproj.CoreCompileInputs.cache
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csproj.CopyComplete
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\jackc\OneDrive - TAFE SA\Backups 2021\05-27 6clp assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.pdb
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.dll
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\EntityFramework.dll
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.pdb
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.dll.config
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\EntityFramework.xml
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csprojAssemblyReference.cache
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csproj.CopyComplete
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\000080409\Downloads\Assignement\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.pdb
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.dll
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\EntityFramework.dll
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.pdb
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.dll.config
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\EntityFramework.xml
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csproj.AssemblyReference.cache
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csproj.CoreCompileInputs.cache
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csproj.CopyComplete
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\AssignmentTheOne\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.pdb
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.dll
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\EntityFramework.dll
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.pdb
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\ABCEnrollmentServiceWCF.dll.config
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\bin\Debug\EntityFramework.xml
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csprojAssemblyReference.cache
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.csproj.CopyComplete
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\000080409\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEnrollmentServiceWCF\ABCEnrollmentServiceWCF\ConsoleHost\obj\Debug\ConsoleHost.pdb

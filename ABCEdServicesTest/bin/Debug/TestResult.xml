@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEdServicesTest\bin\Debug\ABCEdServicesTest.dll" total="6" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-06-16" time="11:58:39">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.9151" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="DRPIFFLE" user="jackc" user-domain="DRPIFFLE" />
+  <culture-info current-culture="en-AU" current-uiculture="en-GB" />
+  <test-suite type="Assembly" name="C:\Users\jackc\OneDrive - TAFE SA\TAFE 2021\6clp\Assignment\ABCEdServicesTest\bin\Debug\ABCEdServicesTest.dll" executed="True" result="Success" success="True" time="3.584" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ABCEdServicesTest" executed="True" result="Success" success="True" time="3.577" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="UnitTest1" executed="True" result="Success" success="True" time="3.576" asserts="0">
+            <results>
+              <test-case name="ABCEdServicesTest.UnitTest1.CheckCourseCountIs2" description="Test 1: A test to check there are 2 courses" executed="True" result="Success" success="True" time="2.497" asserts="1" />
+              <test-case name="ABCEdServicesTest.UnitTest1.CheckEnrollmentCountIs0" description="Test 5: A test to check there are 0 enrollments for student S100" executed="True" result="Success" success="True" time="0.042" asserts="1" />
+              <test-case name="ABCEdServicesTest.UnitTest1.CheckStudentCountIs2" description="Test 3: A test to check there are 2 students" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+              <test-case name="ABCEdServicesTest.UnitTest1.EnrollStudentS100InCourseC100" description="Test 6: A test to enroll S100 in C100 and check number of enrollments for S100 is now 1" executed="True" result="Success" success="True" time="0.313" asserts="1" />
+              <test-case name="ABCEdServicesTest.UnitTest1.InsertCourseCheckCountIs3" description="Test 2: A test to insert a course and check number of coures is now 3" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+              <test-case name="ABCEdServicesTest.UnitTest1.InsertStudentCheckCountIs3" description="Test 4: A test to insert a course and check number of students is now 3" executed="True" result="Success" success="True" time="0.012" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

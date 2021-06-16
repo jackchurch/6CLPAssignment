@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bc3fdcc4-3841-4cbb-98f4-b7928ba05719" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/ABCEnrollmentServiceWCF/EnrollService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="953b0451-a319-4be7-9779-69c638ac542a" SourceId="1" SourceUrl="http://localhost:8733/ABCEnrollmentServiceWCF/EnrollService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="5a516c2c-a961-4d75-afd6-7ce97c3b41cd" SourceId="1" SourceUrl="http://localhost:8733/ABCEnrollmentServiceWCF/EnrollService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="0e97783a-59ba-46f7-9aa7-eaf100fe1175" SourceId="1" SourceUrl="http://localhost:8733/ABCEnrollmentServiceWCF/EnrollService/mex" />
+    <MetadataFile FileName="ABCEnrollmentServiceWCF.Model.xsd" MetadataType="Schema" ID="9c76dd8a-78c8-48bd-925f-4432f1f7f444" SourceId="1" SourceUrl="http://localhost:8733/ABCEnrollmentServiceWCF/EnrollService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

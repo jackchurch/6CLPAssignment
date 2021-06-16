@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ABCEnrollmentServiceWCF.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ABCEnrollmentServiceWCF.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfStudentVO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="StudentVO" nillable="true" type="tns:StudentVO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfStudentVO" nillable="true" type="tns:ArrayOfStudentVO" />
+  <xs:complexType name="StudentVO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DateEnrolled" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="StduentName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StudentID" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StudentVO" nillable="true" type="tns:StudentVO" />
+  <xs:complexType name="ArrayOfCourseVO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CourseVO" nillable="true" type="tns:CourseVO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCourseVO" nillable="true" type="tns:ArrayOfCourseVO" />
+  <xs:complexType name="CourseVO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cost" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CourseID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CourseName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CourseVO" nillable="true" type="tns:CourseVO" />
+</xs:schema>
